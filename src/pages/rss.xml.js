@@ -14,8 +14,8 @@ posts.splice(10);
 
 export const get = () =>
   rss({
-    title: '潮流周刊',
-    description: '记录 Tw93 潮流前端的日常生活',
+    title: '小雄周刊',
+    description: '记录 小雄JasenYa 开发者的日常生活',
     site: 'https://weekly.tw93.fun/',
     customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
     items: posts.map((item) => {
