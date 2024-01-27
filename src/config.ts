@@ -8,7 +8,7 @@ export const SITE = {
   homePage: 'https://weekly.tw93.fun',
   blogPage: 'https://tw93.fun/',
   twitterId: 'HiTw93',
-  githubId: 'tw93',
-  repo: 'tw93/weekly'
+  githubId: 'jasenyun',
+  repo: 'jasenyun/weekly'
 };
 
